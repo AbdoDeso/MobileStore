@@ -6,5 +6,5 @@ export default defineConfig({
   plugins: [react(),
         tailwindcss()
   ],
-  base: '/redux-app/', // Replace with your exact GitHub repository name
+  base: '/MobileStore/', // Replace with your exact GitHub repository name
 })
